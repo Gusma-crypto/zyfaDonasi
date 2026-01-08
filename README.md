@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/Gusma-crypto/zyfaDonasi)
+![GitHub license](https://img.shields.io/github/license/Gusma-crypto/zyfaDonasi)
+![Solidity](https://img.shields.io/badge/Solidity-^0.8.28-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # ZyfaDonasi Smart Contract
 
 ZyfaDonasi adalah smart contract donasi sederhana berbasis **Ethereum / EVM-compatible blockchain** (Ethereum, Polygon, BSC, dll) yang memungkinkan siapa saja untuk berdonasi, dan hanya **owner** yang dapat menarik dana donasi.
